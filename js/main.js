@@ -89,7 +89,7 @@ function renderModal(arr) {
                     </div>\
                 </div>\
                 </div>\
-            </div>/' 
+            </div>' 
         elModalContainer.innerHTML += modalStr; 
     }
 }
